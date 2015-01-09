@@ -1,2 +1,16 @@
-# jsonwp-status
-Library of JSONWP status codes
+jsonwp-status
+===================
+
+Work in progress, stay tuned!
+
+## Watch
+
+```
+npm run watch
+```
+
+## Test
+
+```
+npm test
+```
