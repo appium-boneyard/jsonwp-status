@@ -6,7 +6,7 @@
     "selenium",
     "jsonwp"
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "appium",
   "license": "Apache License 2.0",
   "repository": {
@@ -21,10 +21,8 @@
   ],
   "main": "./status.js",
   "bin": {},
-  "directories": {
-  },
-  "dependencies": {
-  },
+  "directories": {},
+  "dependencies": {},
   "scripts": {
     "test": "./node_modules/.bin/gulp once",
     "watch": "./node_modules/.bin/gulp"
