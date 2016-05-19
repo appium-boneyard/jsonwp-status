@@ -1,16 +1,4 @@
-jsonwp-status
+DEPRECATED
 ===================
 
-Work in progress, stay tuned!
-
-## Watch
-
-```
-npm run watch
-```
-
-## Test
-
-```
-npm test
-```
+moved to [appium-base-driver](https://github.com/appium/appium-base-driver)
